@@ -1,9 +1,1 @@
-482c811da5d5b4bc6d497ffa98491e38:password123
-039624cfe1e84d7e717bd92767a8de84:snowball12
-cf9335aa407b76812d6fe661de163756:3.1415926535
-0239181e4d9c76a12e60675013ff4376:dogsandcats
-65f688749305a936a5964de0dd5f2a7f:bananacustard
-1897a69ef451f0991bb85c6e7c35aa31:1a2b3c4d
-3805248410673a8be6aa4807e61fb5ae:poiuytrewq
-53fe99e9c93fdd5fc14e296375b85b43:password1234567890
-b419e81184e9492a74d9646e23ebc82d:kamikaze123
+['snowball12', '', '', '', '3.1415926535', 'dogsandcats', '', '', '', '', '', '12secret123', 'password123', '', '', '', 'bananacustard', '', '', '', '', '', '1a2b3c4d', '', '', '', '', '', '', '', '', 'poiuytrewq', '', '', 'password1234567890', '', '', '', '', '', '', 'jac0b!', '', '', '', '', '', '', 'kamikaze123', '', '', '', '', '', '', '', '', '', 'tr0mb0n3', '', '', '', '', '', '', '', '']
